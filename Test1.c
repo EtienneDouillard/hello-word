@@ -8,3 +8,8 @@ int Fonction-comit1(){
 int Fonction_commit2(){
     printf("Fonction comit 2");
 }
+
+int Fonction_comit4(){
+    printf("Fonction comit 4");
+    //Après commit 3
+}
