@@ -4,3 +4,7 @@
 int Fonction-comit1(){
     printf("Fonciton comit 1 ");
 }
+
+int Fonction_commit2(){
+    printf("Fonction comit 2");
+}
